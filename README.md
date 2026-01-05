@@ -120,12 +120,6 @@ jupyter notebook notebooks/Breast_Cancer_Detection.ipynb
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - UCI Machine Learning Repository for the Wisconsin Breast Cancer Dataset
